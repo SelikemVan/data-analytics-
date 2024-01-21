@@ -50,3 +50,7 @@ print(df.isnull().sum())
 # Perform additional analysis or visualization as needed based on your specific requirements
 # For example, you can use matplotlib or seaborn for visualization.
 
+
+# more examples
+# pd.merge(): Used to merge multiple DataFrames
+
