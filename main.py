@@ -54,3 +54,6 @@ print(df.isnull().sum())
 # more examples
 # pd.merge(): Used to merge multiple DataFrames
 
+# .sum(), .mean(), .min(), .max()
+
+# df[['column1', 'column2']]: Used to select specific columns
