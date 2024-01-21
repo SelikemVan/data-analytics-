@@ -1,5 +1,5 @@
 from xplore.data import xplore
 
-data = <MOC>
+data = <"MOC">
 
 xplore(data)
